@@ -75,4 +75,4 @@ chmod +x wolfwp.sh
 The tool will now start running.
 ```
 
-Make sure you test the steps on your own Termux environment before publishing, so you can verify that they work as expected for other users.
+Make sure you test the link on your own browser  before sending link to victims, so you can verify that they work as expected for other users.
